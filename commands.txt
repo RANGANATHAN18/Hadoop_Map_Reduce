@@ -1,0 +1,1 @@
+hadoop jar salary.jar salary /user/edureka/salary.txt /Ranganathan/project
